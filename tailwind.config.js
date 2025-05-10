@@ -15,9 +15,15 @@ module.exports = {
       width: {
         'longueur': '90%',
       },
+      height: {
+        'hauteur': '95%',
+      },
       gap:{
         'distance':'400px'
       },
+      rounded:{
+        'bord':'120px'
+      }
       
       
     },
