@@ -14,18 +14,30 @@ module.exports = {
       },
       width: {
         'longueur': '90%',
+        'barre':'21.5rem'
       },
       height: {
-        'hauteur': '95%',
+        'hauteur1': '95%',
+        'hauteur2':'400vh',
+        'hauteur3':'3.5rem'
       },
       gap:{
         'distance':'400px'
       },
       rounded:{
         'bord':'120px'
+      },
+      margin:{
+        'margeVert': '10%',
+        'margeHorizon': '5%',
+        
+      },
+      fontSize:{
+        'font1':'2rem'
+      },
+      lineHeight:{
+        'lineHeight1':'2rem'
       }
-      
-      
     },
   },
   plugins: [],
