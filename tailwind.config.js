@@ -20,7 +20,7 @@ module.exports = {
       height: {
         'hauteur1': '95%',
         'hauteur2':'400vh',
-        'hauteur3':'3.5rem'
+        'hauteur3':'3.5rem',
       },
       gap:{
         'distance':'400px'
